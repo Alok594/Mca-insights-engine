@@ -15,7 +15,6 @@ This project implements the MCA Insights Engine assignment, processing Ministry 
     ```
 3.  **Activate the environment:**
     * Windows: `.\venv\Scripts\activate`
-    * Mac/Linux: `source venv/bin/activate`
 4.  **Install required libraries:**
     ```bash
     pip install -r requirements.txt
